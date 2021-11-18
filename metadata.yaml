@@ -1,0 +1,30 @@
+_repo: Priscilla-of-the-Good-Intent-A-Romance-of-the-Grey-Fells_66737
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sutcliffe, Halliwell
+    alias: Quilp, Jocelyn
+    birthdate: 1870
+    deathdate: 1932
+    gutenberg_agent_id: '42289'
+    url: http://www.gutenberg.org/2009/agents/42289
+description: ''
+gutenberg_issued: '2021-11-15'
+identifiers:
+  gutenberg: '66737'
+language: en
+pgterms:marc904: https://archive.org/details/priscillagoodin00unkngoog/page/n6/mode/2up
+pgterms:marc905: 20200423131926sutcliffe
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Little, Brown and Company,1908,copyright 1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Priscilla of the Good Intent: A Romance of the Grey Fells'
+url: http://www.gutenberg.org/ebooks/66737
