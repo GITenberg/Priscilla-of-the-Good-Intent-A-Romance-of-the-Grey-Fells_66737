@@ -1,5 +1,8 @@
 _repo: Priscilla-of-the-Good-Intent-A-Romance-of-the-Grey-Fells_66737
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66737-h/images/cover.jpg
 creator:
   author:
     agent_name: Sutcliffe, Halliwell
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '42289'
     url: http://www.gutenberg.org/2009/agents/42289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66737#Priscilla-of-the-Good-Intent-A-Romance-of-the-Grey-Fells
 gutenberg_issued: '2021-11-15'
 identifiers:
   gutenberg: '66737'
